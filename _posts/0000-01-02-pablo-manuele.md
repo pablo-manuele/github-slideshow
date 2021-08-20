@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide"
+title: "Welcome to pablo's slide"
 ---
-Let's use git to change the world!
+Let's learn how to change the world! Emoji: :tada:
 Use the left arrow to go back!
